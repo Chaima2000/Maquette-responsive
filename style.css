@@ -1,0 +1,171 @@
+
+.logo{
+  width :120px;
+  height :60px;
+  padding: 10%;
+
+}
+header {
+background-image:
+linear-gradient(transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px),
+linear-gradient(90deg,
+  transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px);
+background-size: 100% 12px, 12px 100%;
+  }
+
+ .lien{
+  text-decoration: none;
+  color:gray;
+ }
+ .size{
+  font-size: small;
+ }
+  .phrase p{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Fonte exemple' ;
+  font-size: large;
+height:5vh;
+background-image:
+linear-gradient(transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px),
+linear-gradient(90deg,
+  transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px);
+background-size: 100% 12px, 12px 100%;
+  }
+
+  .gray{
+    padding: 1%;
+    margin-left: 30%;
+    color : gray;
+    font-size:x-small;
+  }
+  .trait_dessus{
+
+    border:2px solid orangered;
+  }
+  .trait_dessus1{
+
+    border:2px solid orange;
+  }
+  .trait_dessus2{
+
+    border:2px solid greenyellow;
+  }
+  .trait_dessus3{
+
+    border:2px solid blue;
+  }
+  .trait_dessus4{
+
+    border:2px solid violet;
+  }
+  .aligneur{
+   padding:5vh;
+   margin :0px;
+   text-align: center;
+   background-color: white;
+  }
+  h5{
+    color:orangered;
+    margin: 0px;
+
+
+  }
+  h6{
+    color:gray;
+    font-size: 1.7rem;
+  }
+  .logocontact{
+    height: 3vh;
+    width: 3vh;
+  }
+  .la-date{
+    color:gray;
+    margin: 0px ;
+
+  }
+  .partie1{
+    border:1px solid gainsboro;
+    padding: 1vh;
+    height: 20%;
+    width: 140vh;
+  }
+  .imagegolf{
+    margin-left: 3vh;
+  }
+  .grosse_partie1{
+    display: flex;
+
+
+    width: 100vh;
+
+
+  }
+
+  .grosse_partie2{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+  .dans_partie4{
+    display: flex;
+
+  }
+  .footer{
+   display: flex;
+   justify-content: space-between;
+
+
+  }
+  .vertical-line{
+    border-left: 1px solid gainsboro;
+    display: inline-block;
+    height: 25px;
+    margin: 0 10px;
+  }
+  .accueil{
+    display: flex;
+  }
+  .separateur{
+    padding: 3vh;
+  }
+  .images1{
+   padding: 5px;
+  }
+  .images2{
+    padding: 5px;
+  }
+  .images3{
+    padding: 5px;
+  }
+  .bordure{
+    border:1px solid gainsboro;
+    border-radius: 1px;
+    padding: 6px;
+  }
+  .contact{
+
+margin:25px;
+
+background-image:
+linear-gradient(transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px),
+linear-gradient(90deg,
+  transparent 11px,
+  rgba(220,220,200,.8) 12px,
+  transparent 12px);
+background-size: 100% 12px, 12px 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+  }
